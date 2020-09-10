@@ -1,6 +1,6 @@
 # IslandMaker
 
-This was a collaborative effort with Grady Peck, done largely for coding practice. The code uses Perlin noise to create a semi-random 2d heightmap array and then creates additional arrays simulating water flow and pooling to generate streams and ponds. The result is a fairly realistic semi-random "island."
+This was a collaborative effort with [Grady Peck](https://github.com/GradyPeck), done largely for coding practice. The code uses Perlin noise to create a semi-random 2d heightmap array and then creates additional arrays simulating water flow and pooling to generate streams and ponds. The result is a fairly realistic semi-random "island."
 
 ## Guide to Files
 
