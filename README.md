@@ -13,7 +13,7 @@ IslandMaker currently consists of four .ipynb files (Jupyter Notebooks) and a fo
 
 ## Requirements
 
-For the code to run properly, it requires Python 3 and the following modules:
+For the current version of the code (PerlinBlessed.ipynb) to run properly, it requires Python 3 and the following modules:
 - JupyterLab or Jupyter Notebook
 - matplotlib.pyplot
 - numpy
